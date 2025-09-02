@@ -1,4 +1,4 @@
-# pemotes
+# laughEmotes
 
 Un menu d’emotes pour FiveM avec favoris persistants, aperçu en direct et commande rapide.
 
